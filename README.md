@@ -1,5 +1,15 @@
-# React + Vite
+# Hoster Landing Page
 
-## Screenshots
+## Description
+This project is a responsive landing page for Hosterr, a web hosting service provider. The landing page is built using Tailwind CSS and features a clean and modern design. The page includes a call-to-action section, navigation links, and social media icons.
 
-![Home Page](./images/homepage.png)
+## Demo
+
+![Home Page](./src/images/homepage.png)
+
+                       
+## Features
+- Responsive design using Tailwind CSS
+- Navigation bar with links
+- Call-to-action section with an email subscription form
+- Social media links
